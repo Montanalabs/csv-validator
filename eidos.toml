@@ -1,0 +1,7 @@
+name = "csv-validator"
+version = "0.1.0"
+description = "CSV ingestion validator"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
