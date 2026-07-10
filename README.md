@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `csv-validator_safe.os` — the correct design.
-- `csv-validator_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `csv-validator_safe.wave` — the correct design.
+- `csv-validator_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
